@@ -1,6 +1,11 @@
-./bsd is the simplified two-clause BSD license, the simplest extant BSD license
-as of this writing.
+Here are some license templates that I use to speed up development.
+When I release a project, I choose one license file, copy-and-paste it
+into $PROJECT_ROOT/LICENSE, and edit the template as appropriate.
+
+./bsd is a template for the simplified two-clause BSD license, which is the
+simplest BSD license as of this writing. This template requires editing.
 
 ./public-domain I copy-and-pasted from http://unlicense.org/ , but I removed
 the propaganda URL at the bottom. I don't think the public domain is the right
 solution to all licensing problems, unlike the unlicense.org author(s).
+This template does not require editing; you can use it as-is.
